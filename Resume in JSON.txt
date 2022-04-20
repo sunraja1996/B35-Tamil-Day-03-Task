@@ -1,0 +1,64 @@
+{
+    "Personal Info"; [{
+      "name": "shanmugaraja",
+      "label": "Graphic Designer",
+      "image": "IMG_20211120_140347.jpg",
+      "email": "sunraja1996@outlook.com",
+      "phone": "+91 6385675061",
+      
+      "location": {
+        "address": "Ramapuram, Chennai",
+        "postalCode": "600 089",
+        "city": "Chennai",
+        "region" : "India",
+      }
+    }];
+    "work"; [{
+      "name": "Lumina Datamatics",
+      "position": "Executive",
+      "url": "https://www.luminadatamatics.com/",
+      "date of joining": "19 Aug 2019",
+    }], 
+    "education"; [{
+      "institution": "Panimalar Institute of Technology",
+      "url": "https://www.pit.ac.in/",
+      "Department": "Mechanical",
+      "studyType": "Bachelor",
+      "startDate": "2014-05-04",
+      "endDate": "2018-05-03",
+      "CGPA": "6.6",
+    }],
+    "awards"; [{
+      "title": "Director",
+      "date": "2017-02-18",
+      "awarder": "Sangamam Production",
+
+      "title":"Co-author",
+      "date" :"2020-08-31",
+      "awarder": "Unvoiced Heart",
+    }],
+    "certificates"; [{
+      "name": "Mechanical Software",
+      "date": "2018-02-18",
+      "issuer": "Diagonal CADD",
+    }],
+    "skills"; [{
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages"; [{
+      "language": "Tamil & English",
+    }],
+    "interests"; [{
+      "name": "Film Making",
+      "keywords": [
+        "Director",
+        "Story Writer"
+      ]
+  }]
+}
